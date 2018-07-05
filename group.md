@@ -12,8 +12,8 @@ the train set, then see how it does on the unseen data in the test set at the
 end.
 
 We would like you to use this data set to help understand **what factors are
-the best predictors for retention**, and offer suggestions to operationalize
-those insights to help Company X. Therefore, your task is not only to build a
+the best predictors for retention**, and offer suggestions to help Company X. 
+Therefore, your task is not only to build a
 model that minimizes error, but also a model that allows you to interpret the
 factors that contributed to your predictions.
 
@@ -67,7 +67,7 @@ rules*.
   - What model did you use in the end? Why?
   - Alternative models you considered? Why are they not good enough?
   - What performance metric did you use to evaluate the *model*? Why?
-  - Based on insights from the model, what actionable plans do you propose to
-    reduce churn?
+  - **Based on insights from the model, what plans do you propose to
+    reduce churn?**
   - What are the potential impacts of implementing these plans or decisions?
     What performance metrics did you use to evaluate these *decisions*, why?
