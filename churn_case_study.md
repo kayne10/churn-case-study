@@ -30,7 +30,7 @@ Once we fitted the models, we plotted them on a ROC curve to determine which had
 ![ROC Gif](images/roc_gif.gif)
 
  Using Gradient Boosting Classifier, we then plotted our training data against various probability thresholds to determine which threshold produced the highest accuracy and recall.
-
+<center>
  |                   |   Accuracy |   Recall |
 |:------------------|-----------:|---------:|
 | kNN               |      0.715 |     0.7  |
@@ -38,7 +38,7 @@ Once we fitted the models, we plotted them on a ROC curve to determine which had
 | Random Forest     |      0.74  |     0.7  |
 | Gradient Boosting |      0.75  |     0.71 |
 | AdaBoosting       |      0.74  |     0.76 |
-
+</center>
 
 
 We found that the threshold that produced the highest accuracy for Gradient Boosting was .52
