@@ -25,7 +25,7 @@ In order find the most predictive result, we decided to fit multiple type of Cla
 - Gradient Boosting
 - Ada Boosting
 
-Once we fitted the models, we plotted them on a ROC curve to determine which had the high True Positive vs False Positive rate. Based on the results we found, we found that Gradient Boost was the best model to use because it had the highest AUC.
+Once we fitted the models, we plotted them on a ROC curve to determine which had the high True Positive vs False Positive rate. Based on the results we found, we found that Gradient Boost was the best model to use because it had the highest AUC of .83.
 
 ![ROC Gif](images/roc_gif.gif)
 
